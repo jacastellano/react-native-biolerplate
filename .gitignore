@@ -60,3 +60,7 @@ buck-out/
 # Jest
 #
 .jest/
+
+# Native
+android/
+ios/
